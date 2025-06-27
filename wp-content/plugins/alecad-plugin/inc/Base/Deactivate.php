@@ -1,10 +1,10 @@
 <?php
 
 /**
- * @package
+ * @package AlecadPlugin
  */
 
-namespace Inc;
+namespace Inc\Base;
 
 class Deactivate
 {
