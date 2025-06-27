@@ -1,0 +1,17 @@
+{
+    "name": "deymi/alecad-plugin",
+    "description": "Awesome starter plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Milton Dey Mishu",
+            "email": "114005218+softengmilton@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4": {"Inc\\":"./inc"}
+    }
+}
